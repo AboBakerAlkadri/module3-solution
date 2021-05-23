@@ -1,0 +1,9 @@
+ul {
+  visibility: hidden;
+}
+
+@media (max-width: 768px) {
+  ul {
+    visibility: visible;
+  }
+}
